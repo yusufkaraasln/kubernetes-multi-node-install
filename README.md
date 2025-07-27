@@ -2,15 +2,14 @@
 
 ---
 
-<img width="848" height="862" alt="Ekran Resmi 2025-07-27 19 13 53" src="https://github.com/user-attachments/assets/6ea125e7-383c-4445-8fbf-c0572f4c93e3" />
-
-
-
 ## Giriş
 
 Bu doküman, Kubernetes cluster kurulumu için temel ortamı hazırlamak amacıyla VM (Virtual Machine) kurulumu ve yapılandırması hakkında bilgi verir. Kubernetes kurulumu için genellikle fiziksel makineler veya bulut ortamları tercih edilir ancak yerel test ve geliştirme ortamı için VM kullanmak pratik ve yaygındır.  
 
 Bu rehberde, Windows ve macOS kullanıcıları için **Multipass** aracı kullanılarak Ubuntu tabanlı VM'lerin nasıl kurulacağı detaylandırılmıştır. Bu dokümanda kullanacağımız VM olan Multipass, hafif ve hızlı VM yönetimi sağlayan bir araçtır. Ubuntu sanal makineleri oluşturup yönetmeyi kolaylaştırır.
+
+<img width="848" height="862" alt="Ekran Resmi 2025-07-27 19 13 53" src="https://github.com/user-attachments/assets/6ea125e7-383c-4445-8fbf-c0572f4c93e3" />
+
 
 ---
 
