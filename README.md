@@ -118,9 +118,9 @@ multipass purge
 
 Bu VM'ler üzerinde Kubernetes kurulumu için aşağıdaki dokümanları kullanabilirsiniz:
 
-- Master node kurulumu  
-- Worker-1 node kurulumu  
-- Worker-2 node kurulumu
+- [Master Node Kurulumu](./master-node-setup/README.md)  
+- [Worker-1 Node Kurulumu](./worker-1-node-setup/README.md)  
+- [Worker-2 Node Kurulumu](./worker-2-node-setup/README.md)  
 
   
 ---
